@@ -6,15 +6,15 @@ class DashboardService {
   // ===============================
   // Mobile Device (ใช้ส่งคำสั่ง)
   // ===============================
-  static const String controlClientId = '3d0f60c8-4a1a-4ac7-bc69-2d366029d867';
+  static const String controlClientId = 'my-dashboard-app';
 
-  static const String controlToken = 'HXCG82Qh1YtPfbfRNcFhJkZVecfvyHsw';
+  static const String controlToken = 'my-dashboard-token';
   // ===============================
   // ESP32 Device (ใช้ดึง sensor)
   // ===============================
-  static const String espClientId = 'c5a6e142-6b8c-489b-83fb-9fd785a30d6c';
+  static const String espClientId = 'my-esp32-device';
 
-  static const String espToken = 'uJwP9JUJPFY1XaGmH9TWNPhTzQvs7CoS';
+  static const String espToken = 'my-esp32-token';
 
   // ===============================
   // API URL
